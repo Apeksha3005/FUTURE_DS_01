@@ -80,8 +80,4 @@ This project demonstrates:
 ## 👩‍💻 Author
 **Apeksha Dhananjay Lalage**  
 Aspiring Data Analyst | Power BI | SQL | Python  
-LinkedIn: (Add your LinkedIn link here)
 
----
-
-⭐ If you found this project helpful, feel free to star the repository!
